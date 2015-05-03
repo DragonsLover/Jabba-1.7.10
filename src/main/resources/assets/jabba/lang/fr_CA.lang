@@ -1,0 +1,84 @@
+item.upgrade.core.storage.name=Upgrade de stockage
+item.upgrade.core.storage3.name=Upgrade de stockage x3
+item.upgrade.core.storage9.name=Upgrade de stockage x9
+item.upgrade.core.storage27.name=Upgrade de stockage x27
+item.upgrade.core.storage81.name=Upgrade de stockage x81
+item.upgrade.core.storage243.name=Upgrade de stockage x243
+item.upgrade.core.ender.name=Upgrade des limbes
+item.upgrade.core.redstone.name=Upgrade de redstone
+item.upgrade.core.hopper.name=Upgrade d'entonnoir
+item.upgrade.core.void.name=Upgrade d'évacuation
+item.upgrade.core.creative.name=Upgrade créatif
+
+text.jabba.ubgrade.core.ender=Comme le coffre de limbes, mais cette fois pour un tonneau
+text.jabba.ubgrade.core.redstone=Permet au tonneau d'émettre de la redstone
+text.jabba.ubgrade.core.hopper=Permet au tonneau de se vider automatiquement
+text.jabba.ubgrade.core.storage=Augmente la capacité de stockage de %s stacks
+text.jabba.ubgrade.core.void=Supprime l'excès d'objets ajoutés une fois le tonneau rempli
+text.jabba.ubgrade.core.creative=Permet les retraits infinis d'un tonneau
+
+item.upgrade.side.sticker.name=Autocollant
+item.upgrade.side.hopper.name=Façade d'entonnoir
+item.upgrade.side.redstone.name=Façade de redstone
+
+item.upgrade.structural=Upgrade structurel de marque 
+
+item.hammer.normal.name=Marteau de tonneau
+item.hammer.bspace.name=Marteau de tonneau (résonant)
+item.hammer.redstone.name=Marteau de tonneau (redstone)
+item.hammer.hopper.name=Marteau de tonneau (entonnoir)
+item.hammer.storage.name=Marteau de tonneau (stockage)
+item.hammer.structural.name=Marteau de tonneau (structurel)
+item.hammer.void.name=Marteau de tonneau (vide)
+item.hammer.creative.name=Marteau de tonneau (créatif)
+
+item.dolly.normal.empty.name=Diable
+item.dolly.normal.full.name=Diable (plein)
+item.dolly.diamond.empty.name=Diable en diamant
+item.dolly.diamond.full.name=Diable en diamant (plein)
+
+item.fork.name=Diapason des limbes
+
+tile.blockbarrel.name=Meilleur tonneau
+
+text.jabba.bonk=Bong !
+text.jabba.downgrade=Vous ne pouvez pas downgrader un tonneau.
+text.jabba.coreupgrade_exists=L'upgrade du coeur est déjà installé.
+text.jabba.upgrade_exists=L'upgrade est déjà appliqué.
+text.jabba.upgrade_remove=Veuillez retirer quelques upgrades d'abord.
+text.jabba.upgrade_insufficient=Pas assez d'emplacements d'upgrade pour cet upgrade. Vous devez en avoir au moins %s pour l'appliquer.
+text.jabba.upgrade_required=Vous avez besoin d'au moins un upgrade de marque %s pour l'appliquer.
+text.jabba.facade_redstone=Cette façade requiert un upgrade de redstone dans le coeur.
+text.jabba.facade_hopper=Cette façade requiert un upgrade d'entonnoir dans le coeur.
+text.jabba.stack_remove=Veuillez retirer quelques stacks d'abord.
+text.jabba.bspace_prevent=La résonance vous prévient de le faire.
+text.jabba.bspace_remove=La résonance s'évanouie...
+text.jabba.bspace_noreact=Ce tonneau ne réagit pas au diapason.
+text.jabba.bspace_content=Le contenu du tonneau l'empêche de résonner.
+text.jabba.bsapce_structure=La structure est trop différente pour trouver une fréquence commune.
+text.jabba.bspace_fork_resonating=Le diapason commence à résonner.
+text.jabba.bspace_fork_lost=The fork has lost the original source.
+text.jabba.bspace_resonating=Les tonneaux résonnent ensemble.
+text.jabba.hammer_normal=Votre marteau retourne à la normale.
+text.jabba.hammer_bspace=Vous sentez votre marteau commencer à résonner.
+text.jabba.hammer_redstone=Votre marteau commence à émettre une lueur rouge.
+text.jabba.hammer_hopper=Vous commencez à avoir de la misère à tenir votre marteau.
+text.jabba.hammer_storage=Votre marteau commence à grandir.
+text.jabba.hammer_structural=Votre marteau devient un outil de précision pour détruire.
+text.jabba.hammer_void=Votre marteau semble disparaître.
+text.jabba.hammer_creative=Vous semblez avoir soudainement une quantité infinie de marteaux.
+
+itemGroup.jabba=Better Barrels
+
+text.jabba.waila.structural=Niveau structurel : %s
+text.jabba.waila.upgrades=Emplacements d'upgrade : %s / %s
+text.jabba.waila.items=%s / %s objets
+text.jabba.waila.stacks=%s stacks maximum
+text.jabba.waila.empty=<Vide>
+text.jabba.waila.key.content=Contenu du tonneau
+text.jabba.waila.key.quantity=Quantité d'objets
+text.jabba.waila.key.stacks=Stacks maximum
+
+text.jabba.tooltip.slots.used=Emplacements utilisés : 
+text.jabba.tooltip.slots.provided=Emplacements fournis : 
+text.jabba.tooltip.empty=< Vide >
